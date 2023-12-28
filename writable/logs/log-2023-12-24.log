@@ -1,0 +1,151 @@
+CRITICAL - 2023-12-24 16:26:16 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:26:36 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:28:17 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:32:00 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:32:16 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:33:56 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:34:07 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:35:16 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:38:13 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:38:55 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:41:49 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 16:43:16 --> Undefined property: stdClass::$usuairo
+in APPPATH\Controllers\Main.php on line 68.
+ 1 APPPATH\Controllers\Main.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: stdClass::$usuairo', 'C:\\laragon\\www\\codeigniter4-framework-e392123\\app\\Controllers\\Main.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->login_submit()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 17:53:05 --> Undefined constant "STATUS_LIST"
+in APPPATH\Views\main.php on line 22.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('main', [], true)
+ 4 APPPATH\Controllers\Main.php(15): view('main', [])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 18:11:40 --> Call to undefined function check_status()
+in APPPATH\Views\main.php on line 23.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('main', [], true)
+ 4 APPPATH\Controllers\Main.php(15): view('main', [])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 20:32:16 --> Call to undefined function check_status()
+in APPPATH\Views\main.php on line 23.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('main', [], true)
+ 4 APPPATH\Controllers\Main.php(15): view('main', [])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 21:45:18 --> Call to undefined function check_status()
+in APPPATH\Views\main.php on line 23.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('main', [], true)
+ 4 APPPATH\Controllers\Main.php(15): view('main', [])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
+CRITICAL - 2023-12-24 21:47:28 --> Call to undefined function check_status()
+in APPPATH\Views\main.php on line 23.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('main', [], true)
+ 4 APPPATH\Controllers\Main.php(15): view('main', [])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Main->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Main))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\laragon\\www\\codeigniter4-framework-e392123\\public\\index.php')
